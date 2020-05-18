@@ -19,9 +19,9 @@
 9. use `--frame-path` to specify framework directory like `--frame-path=/path/to/dir` 
 10. Use `--enable-perm` to enable all android permissions in binded or non binded payloads without user interaction. For example :- `apkmod --enable-perm=/path/to/binded.apk -o mybinded.apk`
 ### Size Comparision
-Size  | Apkmod  | Third party tools
---- | --- | ---
-after installation | Around 100 MB | Around 700-900 MB
 
-#### Why Apkmod is extremely small ?
-Because it has Alpine instead of Ubuntu, kali, parrot or other glibc based distros.
+
+
+
+
+
